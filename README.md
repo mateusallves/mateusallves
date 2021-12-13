@@ -1,6 +1,6 @@
 ## Olá, eu sou Mateus Alves
 
-- 🔭 Atualmente estou sem emprego
+- 🔭 Front-end em formação
 - 🌱 Estou aprendendo sobre React.js
 
 <div align="center">
