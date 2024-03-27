@@ -1,4 +1,4 @@
-## Oi, meu nome é Mateus Alves, Sou estudante de Sistemas no 4 periodo, e estou estudando para o BackEnd, com um pézin no FullStack
+## Oi, meu nome é Mateus Alves, Sou estudante de Sistemas no 1 periodo, e estou estudando para o BackEnd, com um pézin no FullStack
 
 
 <div align="center">
